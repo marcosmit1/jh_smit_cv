@@ -1,0 +1,17 @@
+.experience-section {
+  padding: 40px 0;
+}
+
+.experience-item {
+  margin-bottom: 40px;
+}
+
+.company {
+  color: #666;
+  font-weight: 500;
+}
+
+.period {
+  color: #888;
+  margin-bottom: 12px;
+} 
